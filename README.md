@@ -1,7 +1,7 @@
-# The-Gardian-News
+# The-Garduan-News
 the purpose of this app is to show news 
 # what i used on this app:
-* The Gardian News Paper API
+* The Garduan News Paper API
 * web View
 * list view
 
