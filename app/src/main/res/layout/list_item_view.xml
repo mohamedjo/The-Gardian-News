@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:paddingBottom="10dp"
+
+    android:layout_height="match_parent">
+  <ImageView
+      android:layout_width="match_parent"
+      android:layout_height="150dp"
+android:layout_marginLeft="8dp"
+      android:layout_marginRight="8dp"
+
+      android:src="@android:color/background_light"
+      android:id="@+id/newsImagr"
+      android:scaleType="centerCrop" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/newsTittleTV"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:textSize="35sp"
+        android:background="?attr/colorButtonNormal"
+        tools:text=" Iran reiterates support for Syria in face of 'foreign aggression' "
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
+
+
+
+</LinearLayout>

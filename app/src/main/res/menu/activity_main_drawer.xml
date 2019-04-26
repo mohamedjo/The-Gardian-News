@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="News">
+   <menu  >
+
+
+        >
+        <item
+            android:id="@+id/nav_navworldnews"
+
+            android:title="world news"/>
+        <item
+            android:id="@+id/nav_ukNews"
+            android:title="UK news"/>
+       <item
+           android:id="@+id/nav_science"
+           android:title="Science"/>
+       <item
+           android:id="@+id/nav_cities"
+           android:title="Cities"/>
+       <item
+           android:id="@+id/nav_tech"
+           android:title="Tech"/>
+       <item
+           android:id="@+id/nav_business"
+           android:title="Bussiness"/>
+
+</menu>
+</item>
+
+
+
+
+</menu>
